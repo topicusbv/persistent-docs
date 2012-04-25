@@ -49,10 +49,10 @@ Lees [hier](git.html) verder om meer te leren over Git en Github.
 
 Elk team heeft zijn eigen project om in te werken. 
 
- - ein1b1 (Kom ik te laat?) [repository](https://github.com/topicusbv/kom-ik-te-laat-ein1b1)
- - ein1b2 (Wat moet ik halen?) [repository](https://github.com/topicusbv/wat-moet-ik-halen-ein1b2)
- - ein1b3 (Kom ik te laat?) [repository](https://github.com/topicusbv/kom-ik-te-laat-ein1b3)
- - ein1b4 (Wat moet ik halen?) [repository](https://github.com/topicusbv/wat-moet-ik-halen-ein1b4)
+ - ein1b1 (Kom ik te laat?): [project](https://github.com/topicusbv/kom-ik-te-laat-ein1b1)
+ - ein1b2 (Wat moet ik halen?): [project](https://github.com/topicusbv/wat-moet-ik-halen-ein1b2)
+ - ein1b3 (Kom ik te laat?): [project](https://github.com/topicusbv/kom-ik-te-laat-ein1b3)
+ - ein1b4 (Wat moet ik halen?): [project](https://github.com/topicusbv/wat-moet-ik-halen-ein1b4)
 
 Je mag gebruik maken van de Wiki voor documentatie, Github pages voor een
 eventuele product pagina en de Issue tracker voor je sprint planning.
