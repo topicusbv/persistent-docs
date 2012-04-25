@@ -42,3 +42,11 @@ Github is een online dienst waar we de code van de projecten kunnen opslaan
 zonder zelf een server te hoeven inrichten. Vergelijkbaar met SourceForge en
 Google Code, maar dan volledig gebouwd om het gebruik van Git zo eenvoudig
 mogelijk te maken.
+
+Voor Eclipse gebruikers raden we de [E-Git]() plugin aan.
+
+Gebruik onderstaande documenten om thuis te raken in het gebruik van Git als
+versiecontrole systeem:
+
+ - []()
+
