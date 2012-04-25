@@ -66,3 +66,14 @@ tracker als sprint board/planner (lekker agile):
  - Epics implementeren als **tags**
  - User stories implementeren als **issues**
 
+### Vragen? ###
+
+Gebruik de [issue tracker van dit project](https://github.com/topicusbv/persistent-docs/issues/new)
+om je vraag naar de begeleiders door te geven. Je kan ook vragen stellen door
+een email te sturen naar (een van) de Topicus begeleiders:
+
+ - Christiaan Mast (christiaan **punt** mast **at** topicus **punt** nl)
+ - Ralf Schimmel (ralf **punt** schimmel **at** topicus **punt** nl)
+ - Martijn Dashorst (martijn **punt** dashorst **at** topicus **punt** nl)
+ - Dries Schulten (dries **punt** schulten **at** topicus **punt** nl)
+
