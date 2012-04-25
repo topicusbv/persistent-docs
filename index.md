@@ -44,3 +44,24 @@ Google Code, maar dan volledig gebouwd om het gebruik van Git zo eenvoudig
 mogelijk te maken.
 
 Lees [hier](git.html) verder om meer te leren over Git en Github.
+
+### Projecten ###
+
+Elk team heeft zijn eigen project om in te werken. 
+
+ - ein1b1 (Kom ik te laat?) [repository](https://github.com/topicusbv/kom-ik-te-laat-ein1b1)
+ - ein1b2 (Wat moet ik halen?) [repository](https://github.com/topicusbv/wat-moet-ik-halen-ein1b2)
+ - ein1b3 (Kom ik te laat?) [repository](https://github.com/topicusbv/kom-ik-te-laat-ein1b3)
+ - ein1b4 (Wat moet ik halen?) [repository](https://github.com/topicusbv/wat-moet-ik-halen-ein1b4)
+
+Je mag gebruik maken van de Wiki voor documentatie, Github pages voor een
+eventuele product pagina en de Issue tracker voor je sprint planning.
+
+#### Issue tracker als sprint board ####
+
+De volgende regels kan je het beste toepassen voor het gebruik van de issue
+tracker als sprint board/planner (lekker agile):
+
+ - Sprints implementeren als **milestones**
+ - Epics implementeren als **tags**
+ - User stories implementeren als **issues**
