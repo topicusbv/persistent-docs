@@ -2,9 +2,9 @@
 layout: main
 title: Wat moet ik halen?
 ---
-# Inleiding #
+### Inleiding ###
 
-## Context ##
+#### Context ####
 
 In dit project maak je in een projectgroep van drie of vier studenten een
 applicatie voor Topicus voor een mobiel platform. De kennis en de
@@ -16,19 +16,19 @@ Testen worden complete, correcte, consistente requirements en een
 professionele test verwacht en vanuit informatiesystemen wordt het gebruik
 van een lokale database verwacht.
 
-## Over Topicus ##
+#### Over Topicus ####
 
 Topicus is gespecialiseerd in (keten-)toepassingen in onderwijs, zorg en
 finance. Oplossingen waarbij de gebruikersvriendelijkheid voorop staat.
 Topicus levert innovatieve oplossingen, op tijd en binnen budget.
 
-# Vraagstelling #
+### Vraagstelling ###
 
 Ontwikkel een Android applicatie die bepaalt wat een leerling (denk aan een
 middelbare scholier) voor cijfer moet halen voor het volgende toetsmoment om
 een voldoende te staan. 
 
-## Vereisten ##
+#### Vereisten ####
 
 De volgende elementen moeten in elk geval terugkomen in de applicatie:
 
@@ -47,7 +47,7 @@ De volgende elementen moeten in elk geval terugkomen in de applicatie:
    aanvullend zou een schema kunnen worden ingevoerd om een toets voor te
    bereiden (mini-planning)
 
-## Aanvullende eisen ##
+#### Aanvullende eisen ####
 
  - De UI moet bedienbaar zijn met paar grote knoppen en eenvoudig uitleesbaar
    zijn; wees hier creatief!
@@ -62,7 +62,7 @@ De volgende elementen moeten in elk geval terugkomen in de applicatie:
 Het projectteam heeft veel vrijheid in additionele features, uiteraard in
 afstemming met de klant.
 
-# Proces eisen #
+### Proces eisen ###
 
 Topicus stelt minimaal de volgende eisen wat betreft het proces:
 

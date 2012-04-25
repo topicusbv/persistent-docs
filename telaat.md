@@ -2,9 +2,9 @@
 layout: main
 title: Kom ik te laat?
 ---
-# Inleiding #
+### Inleiding ###
 
-## Context ##
+#### Context ####
 
 In dit project maak je in een projectgroep van drie of vier studenten een
 applicatie voor Topicus voor een mobiel platform. De kennis en de
@@ -16,13 +16,13 @@ Testen worden complete, correcte, consistente requirements en een
 professionele test verwacht en vanuit informatiesystemen wordt het gebruik
 van een lokale database verwacht.
 
-## Over Topicus ##
+#### Over Topicus ####
 
 Topicus is gespecialiseerd in (keten-)toepassingen in onderwijs, zorg en
 finance. Oplossingen waarbij de gebruikersvriendelijkheid voorop staat.
 Topicus levert innovatieve oplossingen, op tijd en binnen budget.
 
-# Vraagstelling #
+### Vraagstelling ###
 
 Ontwikkel een app die bepaalt of je al dan niet te laat komt op een afspraak.
 De volgende elementen moeten in elk geval terugkomen in de applicatie:
@@ -69,7 +69,7 @@ Aanvullende eisen:
 
 Het projectteam heeft veel vrijheid in additionele features, uiteraard in afstemming met de klant.
 
-# Proces eisen #
+### Proces eisen ###
 
 Topicus stelt minimaal de volgende eisen wat betreft het proces:
 
