@@ -1,6 +1,6 @@
 ---
 layout: main
-title: Wat moet ik halen?
+title: Wat moet ik halen om een ... te staan?
 ---
 ### Inleiding ###
 
