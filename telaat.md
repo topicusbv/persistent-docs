@@ -1,6 +1,6 @@
 ---
 layout: main
-title: Opdracht: Kom ik te laat?
+title: Kom ik te laat?
 ---
 # Inleiding #
 

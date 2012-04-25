@@ -1,6 +1,6 @@
 ---
 layout: main
-title: Opdracht: Wat moet ik halen?
+title: Wat moet ik halen?
 ---
 # Inleiding #
 
