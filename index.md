@@ -13,8 +13,8 @@ van de 1 jaars worden uitgevoerd.
 
 De volgende twee opdrachten zijn gedefinieerd:
 
- - Kom ik te laat voor mijn afspraak?
- - Wat moet ik halen om een ... te staan?
+ - [Kom ik te laat voor mijn afspraak?](telaat.html)
+ - [Wat moet ik halen om een ... te staan?](halen.html)
 
 Beide opdrachten moeten draaien als een Android applicatie op een mobiele
 telefoon.
@@ -65,3 +65,4 @@ tracker als sprint board/planner (lekker agile):
  - Sprints implementeren als **milestones**
  - Epics implementeren als **tags**
  - User stories implementeren als **issues**
+
