@@ -44,7 +44,7 @@ Google Code, maar dan volledig gebouwd om het gebruik van Git zo eenvoudig
 mogelijk te maken.
 
 Lees [hier](git.html) verder om meer te leren over Git en Github.
-
+                   
 ### Projecten ###
 
 Elk team heeft zijn eigen project om in te werken. 
@@ -56,6 +56,12 @@ Elk team heeft zijn eigen project om in te werken.
 
 Je mag gebruik maken van de Wiki voor documentatie, Github pages voor een
 eventuele product pagina en de Issue tracker voor je sprint planning.
+
+#### Inrichten van je project met GIT ####
+
+Als je de stappen doorgenomen hebt om GIT te installeren op je systeem, zal
+er een project gevuld moeten worden. Lees [dit document][inrichting.html] om
+de stappen door te nemen.
 
 #### Issue tracker als sprint board ####
 
