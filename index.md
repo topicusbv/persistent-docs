@@ -54,6 +54,16 @@ Als je de stappen doorgenomen hebt om GIT te installeren op je systeem, zal
 er een project gevuld moeten worden. Lees [dit document](inrichting.html) om
 de stappen door te nemen.
 
+Vergeet niet om je gebruikersnaam [goed in te 
+stellen](http://stackoverflow.com/questions/5007135/how-do-i-change-my-author-na
+me-on-github), anders is het moeilijk te zien wie wat gedaan heeft.
+
+	git config --global user.name "Scott Chacon"
+	git config --global user.email "schacon@gmail.com"
+
+Gebruik het email adres dat je bij Github geregistreerd hebt voor de 
+`user.email` (tip: je kan meerdere email adressen aan je account koppelen)
+
 #### Issue tracker als sprint board ####
 
 De volgende regels kan je het beste toepassen voor het gebruik van de issue
