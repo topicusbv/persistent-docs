@@ -9,27 +9,16 @@ Topicus is gevraagd om de rol van opdrachtgever te vervullen tijdens het
 project. Hiertoe hebben we een tweetal opdrachten geformuleerd die door teams
 van de 1 jaars worden uitgevoerd.
 
-### De opdrachten ###
+### De documenten ###
 
 De volgende twee opdrachten zijn gedefinieerd:
 
  - [Kom ik te laat voor mijn afspraak?](telaat.html)
  - [Wat moet ik halen om een ... te staan?](halen.html)
+ - [De presentatie van donderdag 26 april](https://github.com/downloads/topicusbv/persistent-docs/Project%20Persistent%20-%20Week%201%20Saxion.pptx)
 
 Beide opdrachten moeten draaien als een Android applicatie op een mobiele
 telefoon.
-
-### De teams ###
-
-Er zijn dit jaar 4 teams voor de opdrachten samengesteld:
-
- - [ein1b1](https://github.com/organizations/topicusbv/teams/175978): Kom ik te laat?
- - [ein1b2](https://github.com/organizations/topicusbv/teams/175979): Wat moet ik halen?
- - [ein1b3](https://github.com/organizations/topicusbv/teams/175983): Kom ik te laat?
- - [ein1b4](https://github.com/organizations/topicusbv/teams/175985): Wat moet ik halen?
-
-Elk team is op github gedefinieerd en de bijbehorende studenten zijn lid
-gemaakt van hun eigen team.
 
 ### Git/github ###
 
@@ -47,12 +36,14 @@ Lees [hier](git.html) verder om meer te leren over Git en Github.
                    
 ### Projecten ###
 
-Elk team heeft zijn eigen project om in te werken. 
+Er zijn dit jaar 4 teams voor de opdrachten samengesteld. Elk team is op github 
+gedefinieerd en de bijbehorende studenten zijn lid gemaakt van hun eigen team.
+Elk team heeft zijn eigen project om in te werken:
 
- - ein1b1 (Kom ik te laat?): [project](https://github.com/topicusbv/kom-ik-te-laat-ein1b1)
- - ein1b2 (Wat moet ik halen?): [project](https://github.com/topicusbv/wat-moet-ik-halen-ein1b2)
- - ein1b3 (Kom ik te laat?): [project](https://github.com/topicusbv/kom-ik-te-laat-ein1b3)
- - ein1b4 (Wat moet ik halen?): [project](https://github.com/topicusbv/wat-moet-ik-halen-ein1b4)
+ - [ein1b1](https://github.com/organizations/topicusbv/teams/175978) : [Kom ik te laat?](https://github.com/topicusbv/kom-ik-te-laat-ein1b1)
+ - [ein1b2](https://github.com/organizations/topicusbv/teams/175979) : [Wat moet ik halen?](https://github.com/topicusbv/wat-moet-ik-halen-ein1b2)
+ - [ein1b3](https://github.com/organizations/topicusbv/teams/175983) : [Kom ik te laat?](https://github.com/topicusbv/kom-ik-te-laat-ein1b3)
+ - [ein1b4](https://github.com/organizations/topicusbv/teams/175985) : [Wat moet ik halen?](https://github.com/topicusbv/wat-moet-ik-halen-ein1b4)
 
 Je mag gebruik maken van de Wiki voor documentatie, Github pages voor een
 eventuele product pagina en de Issue tracker voor je sprint planning.
