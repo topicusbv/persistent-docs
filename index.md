@@ -51,7 +51,7 @@ eventuele product pagina en de Issue tracker voor je sprint planning.
 #### Inrichten van je project met GIT ####
 
 Als je de stappen doorgenomen hebt om GIT te installeren op je systeem, zal
-er een project gevuld moeten worden. Lees [dit document][inrichting.html] om
+er een project gevuld moeten worden. Lees [dit document](inrichting.html) om
 de stappen door te nemen.
 
 #### Issue tracker als sprint board ####

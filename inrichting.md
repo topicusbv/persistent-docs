@@ -9,7 +9,7 @@ gezamelijk zullen werken. Slechts één persoon hoeft dit te doen, de anderen
 kunnen de stappen aan het eind van dit document uitvoeren.
 
 
-## Initiele inrichting ##
+## Initiële inrichting ##
 
 De volgende stappen worden ondernomen:
 
